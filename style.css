@@ -14,7 +14,7 @@ body{
     margin: 5px 10px;
     width: 80vw;
     height: 10vh;
-    background-color: white;
+    /* background-color: white; */
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -30,7 +30,7 @@ body{
 .menubar ul{
     display: flex;
     list-style: none;
-    background-color: white;
+    /* background-color: white; */
 }
 .menubar ul li a{
     margin: 1em;
@@ -44,7 +44,7 @@ body{
     margin: 0em;
     width: 8vw;
     height: auto;
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
 }
 
 hr{
@@ -59,14 +59,14 @@ hr{
     display: flex;
     margin: 2em 5em;
     justify-content: space-between;
-    background-color: antiquewhite;
+    /* background-color: antiquewhite; */
 }
 
 .bigimage{
     width: 100%;
     height: auto;
     border-radius: 5%;
-    background-color: blue;
+    /* background-color: blue; */
 }
 
 .bigimage img{
@@ -82,7 +82,7 @@ hr{
     display: flex;
     justify-content: space-around;
     margin-left: 3em;
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
 }
 
 .smallimage img{
@@ -106,7 +106,7 @@ hr{
     margin-left: 5em;
     margin-right: 6em;
     padding: 10px;
-    background-color: chartreuse;
+    /* background-color: chartreuse; */
 }
 
 h1{
