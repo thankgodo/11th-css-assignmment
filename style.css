@@ -79,6 +79,7 @@ hr{
     display: flex;
     justify-content: space-around;
     margin-left: 3em;
+    /* background-color: aquamarine; */
 }
 
 .smallimage img{
@@ -86,7 +87,8 @@ hr{
     height: auto;
     border-radius: 10%;
     border: 1px solid rgb(165, 165, 220);
-    margin: 10px 15px;
+    margin: 1em 0;
+    /* background-color: antiquewhite; */
 }
 
 .smallimage img:hover{
