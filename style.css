@@ -70,14 +70,14 @@ hr{
 }
 
 .bigimage img{
-    width: 100%;
+    width: 80%;
     height: auto;
     margin-left: 3em;
     border-radius: 5%;
 }
 
 .smallimage {
-    width: 86%;
+    width: 82%;
     height: auto;
     display: flex;
     justify-content: space-around;
